@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashieeeeee/75daysLeetCodechallege/tree/master/0004-median-of-two-sorted-arrays) |
+| [0766-toeplitz-matrix](https://github.com/yashieeeeee/75daysLeetCodechallege/tree/master/0766-toeplitz-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashieeeeee/75daysLeetCodechallege/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/yashieeeeee/75daysLeetCodechallege/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
